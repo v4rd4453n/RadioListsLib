@@ -6026,18 +6026,6 @@
         "url": "http://stream.radiometro.no/buskerud128.mp3.m3u"
       },
       {
-        "name": "Sveriges Radio P1",
-        "url": "https://sverigesradio.se/topsy/direkt/132-mp3.m3u"
-      },
-      {
-        "name": "Sveriges Radio P2",
-        "url": "http://sverigesradio.se/topsy/direkt/163-mp3.m3u"
-      },
-      {
-        "name": "Sveriges Radio P3",
-        "url": "https://sverigesradio.se/topsy/direkt/164-mp3.m3u"
-      },
-      {
         "name": "Radio Metro",
         "url": "http://stream.radiometro.no/romerike128.mp3.m3u"
       },
