@@ -2290,20 +2290,308 @@
         "url": "http://europa.shoutca.st:8726/autodj.m3u"
       },
       {
-        "name": "Sveriges Radio P1",
-        "url": "https://sverigesradio.se/topsy/direkt/132-mp3.m3u"
-      },
-      {
-        "name": "Sveriges Radio P1",
-        "url": "https://sverigesradio.se/topsy/direkt/132-mp3.m3u"
-      },
-      {
         "name": "K\u00c3\u00b8benhavns N\u00c3\u00a6rradio 89.6/90.4",
         "url": "http://netradio.knr.dk:8000/stream.mp3.m3u"
       },
       {
-        "name": "Sveriges Radio P1",
-        "url": "https://sverigesradio.se/topsy/direkt/132-mp3.m3u"
+        "name": "DR P1 (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A03L.mp3.m3u"
+      },
+      {
+        "name": "DR P1 (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A03H.mp3.m3u"
+      },
+      {
+        "name": "DR P1 (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8"
+      },
+      {
+        "name": "DR P2 (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A04L.mp3.m3u"
+      },
+      {
+        "name": "DR P2 (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A04H.mp3.m3u"
+      },
+      {
+        "name": "DR P2 (Apple HLS AAC)",
+        "url": "http://drradio2-lh.akamaihd.net/i/p2_9@143504/master.m3u8"
+      },
+      {
+        "name": "DR P3 (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A05L.mp3.m3u"
+      },
+      {
+        "name": "DR P3 (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A05H.mp3.m3u"
+      },
+      {
+        "name": "DR P3 (Apple HLS AAC)",
+        "url": "http://drradio3-lh.akamaihd.net/i/p3_9@143506/master.m3u8"
+      },
+      {
+        "name": "DR P4 Bornholm (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A06L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Bornholm (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A06H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Bornholm (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/p4bornholm_9@143507/master.m3u8"
+      },
+      {
+        "name": "DR P4 Esbjerg (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A15L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Esbjerg (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A15H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Esbjerg (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/p4esbjerg_9@143516/master.m3u8"
+      },
+      {
+        "name": "DR P4 Fyn (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A07L.mp3"
+      },
+      {
+        "name": "DR P4 Fyn (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A07H.mp3"
+      },
+      {
+        "name": "DR P4 Fyn (Apple HLS AAC)",
+        "url": "http://drradio2-lh.akamaihd.net/i/p4fyn_9@143508/master.m3u8"
+      },
+      {
+        "name": "DR P4 K\u00f8benhavn (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A08L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 K\u00f8benhavn (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A08H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 K\u00f8benhavn (Apple HLS AAC)",
+        "url": "http://drradio3-lh.akamaihd.net/i/p4kobenhavn_9@143509/master.m3u8"
+      },
+      {
+        "name": "DR P4 Midt \u0026 Vest (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A09L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Midt \u0026 Vest (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A09H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Midt \u0026 Vest (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/p4midtvest_9@143510/master.m3u8"
+      },
+      {
+        "name": "DR P4 Nordjylland (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A10L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Nordjylland (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A10H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Nordjylland (Apple HLS AAC)",
+        "url": "http://drradio2-lh.akamaihd.net/i/p4nordjylland_9@143511/master.m3u8"
+      },
+      {
+        "name": "DR P4 Sj\u00e6lland (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A11L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Sj\u00e6lland (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A11H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Sj\u00e6lland (Apple HLS AAC)",
+        "url": "http://drradio3-lh.akamaihd.net/i/p4sjaelland_9@143512/master.m3u8"
+      },
+      {
+        "name": "DR P4 Syd (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A12L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Syd (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A12H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Syd (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/p4syd_9@143513/master.m3u8"
+      },
+      {
+        "name": "DR P4 Trekanten (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A13L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Trekanten (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A13H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 Trekanten (Apple HLS AAC)",
+        "url": "http://drradio2-lh.akamaihd.net/i/p4trekanten_9@143514/master.m3u8"
+      },
+      {
+        "name": "DR P4 \u00d8stjyllands Radio (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A14L.mp3.m3u"
+      },
+      {
+        "name": "DR P4 \u00d8stjyllands Radio (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A14H.mp3.m3u"
+      },
+      {
+        "name": "DR P4 \u00d8stjyllands Radio (Apple HLS AAC)",
+        "url": "http://drradio3-lh.akamaihd.net/i/p4ostjylland_9@143515/master.m3u8"
+      },
+      {
+        "name": "DR P5 Bornholm (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A30L.mp3"
+      },
+      {
+        "name": "DR P5 Bornholm (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A30H.mp3"
+      },
+      {
+        "name": "DR P5 Bornholm (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5bornholm_dvr@827108/master.m3u8"
+      },
+      {
+        "name": "DR P5 Esbjerg (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A26L.mp3"
+      },
+      {
+        "name": "DR P5 Esbjerg (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A26H.mp3"
+      },
+      {
+        "name": "DR P5 Esbjerg (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5esbjerg_dvr@827089/master.m3u8"
+      },
+      {
+        "name": "DR P5 Fyn (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A02L.mp3"
+      },
+      {
+        "name": "DR P5 Fyn (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A02H.mp3"
+      },
+      {
+        "name": "DR P5 Fyn (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5fyn_dvr@827102/master.m3u8"
+      },
+      {
+        "name": "DR P5 K\u00f8benhavn (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A28L.mp3"
+      },
+      {
+        "name": "DR P5 K\u00f8benhavn (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A28H.mp3"
+      },
+      {
+        "name": "DR P5 K\u00f8benhavn (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5kobenhavn_dvr@827101/master.m3u8"
+      },
+      {
+        "name": "DR P5 Midtvest (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A17L.mp3"
+      },
+      {
+        "name": "DR P5 Midtvest (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A17H.mp3"
+      },
+      {
+        "name": "DR P5 Midtvest (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5midtvest_dvr@827100/master.m3u8"
+      },
+      {
+        "name": "DR P5 Nordjylland (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A18L.mp3"
+      },
+      {
+        "name": "DR P5 Nordjylland (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A18H.mp3"
+      },
+      {
+        "name": "DR P5 Nordjylland (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5nordjylland_dvr@827099/master.m3u8"
+      },
+      {
+        "name": "DR P5 Sj\u00e6lland (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A19L.mp3"
+      },
+      {
+        "name": "DR P5 Sj\u00e6lland (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A19H.mp3"
+      },
+      {
+        "name": "DR P5 Sj\u00e6lland (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5sjaelland_dvr@827098/master.m3u8"
+      },
+      {
+        "name": "DR P5 Syd (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A20L.mp3"
+      },
+      {
+        "name": "DR P5 Syd (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A20H.mp3"
+      },
+      {
+        "name": "DR P5 Syd (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5syd_dvr@827093/master.m3u8"
+      },
+      {
+        "name": "DR P5 Trekanten (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A23L.mp3"
+      },
+      {
+        "name": "DR P5 Trekanten (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A23H.mp3"
+      },
+      {
+        "name": "DR P5 Trekanten (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5trekanten_dvr@827091/master.m3u8"
+      },
+      {
+        "name": "DR P5 \u00d8stjylland (SHOUTcast mp3 Lav)",
+        "url": "https://live-icy.dr.dk/A/A24L.mp3"
+      },
+      {
+        "name": "DR P5 \u00d8stjylland (SHOUTcast mp3 H\u00f8j)",
+        "url": "https://live-icy.dr.dk/A/A24H.mp3"
+      },
+      {
+        "name": "DR P5 \u00d8stjylland (Apple HLS AAC)",
+        "url": "http://drradio1-lh.akamaihd.net/i/P5ostjylland_dvr@827090/master.m3u8"
+      },
+      {
+        "name": "DR P6 BEAT (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A29L.mp3.m3u"
+      },
+      {
+        "name": "DR P6 BEAT (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A29H.mp3.m3u"
+      },
+      {
+        "name": "DR P6 BEAT (Apple HLS AAC)",
+        "url": "http://drradio3-lh.akamaihd.net/i/p6beat_9@143533/master.m3u8"
+      },
+      {
+        "name": "DR P8 JAZZ (SHOUTcast mp3 Lav)",
+        "url": "http://live-icy.dr.dk/A/A22L.mp3.m3u"
+      },
+      {
+        "name": "DR P8 JAZZ (SHOUTcast mp3 H\u00f8j)",
+        "url": "http://live-icy.dr.dk/A/A22H.mp3.m3u"
+      },
+      {
+        "name": "DR P8 JAZZ (Apple HLS AAC)",
+        "url": "http://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8"
       }
     ]
   },
