@@ -8929,17 +8929,2262 @@
         "name": "Radio Sydv\u00c3\u00a4st",
         "url": "http://50.7.77.114:8426/listen.pls"
       },
+      
       {
-        "name": "Sveriges Radio P1",
+        "name": "Sveriges Radio P1 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P6 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (192kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-hi-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P1 (128kbps mp3 m3u)",
         "url": "https://sverigesradio.se/topsy/direkt/132-mp3.m3u"
       },
       {
-        "name": "Sveriges Radio P6",
-        "url": "http://sverigesradio.se/topsy/direkt/166-mp3.m3u"
+        "name": "Sveriges Radio P2 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-mp3.m3u"
       },
       {
-        "name": "Sveriges Radio Finska",
+        "name": "Sveriges Radio P3 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P6 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (128kbps mp3 m3u)",
         "url": "https://sverigesradio.se/topsy/direkt/226-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (128kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P1 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P6 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (64kbps mp3 m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-lo-mp3.m3u"
+      },
+      {
+        "name": "Sveriges Radio P1 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P6 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (192kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-hi-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P1 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P6 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (128kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P1 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (Extras\u00e4ndningar) (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P6 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (32kbps aac m3u)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-lo-aac.m3u"
+      },
+      {
+        "name": "Sveriges Radio P1 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topssy/direkt/164-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P6 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (192kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-hi-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P1 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P6 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (128kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P1 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P6 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (64kbps mp3 pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-lo-mp3.pls"
+      },
+      {
+        "name": "Sveriges Radio P1 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P6 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (192kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-hi-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P1 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P6 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (128kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P1 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/132-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2562-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/164-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio Ekot s\u00e4nder direkt (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4540-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Plus (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/4951-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Blekinge (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/213-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Dalarna (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/223-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Gotland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/205-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00e4vleborg (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/210-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 G\u00f6teborg (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/212-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Halland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/220-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00e4mtland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/200-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 J\u00f6nk\u00f6ping (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/203-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kalmar (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/201-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kristianstad (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/211-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Kronoberg (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/214-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Malm\u00f6hus (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/207-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Norrbotten (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/209-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Sjuh\u00e4rad (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/206-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Skaraborg (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/208-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Stockholm (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/701-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6dert\u00e4lje (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/5283-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 S\u00f6rmland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/202-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 Uppland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/218-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4rmland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/204-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4st (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/219-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sterbotten (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/215-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4sternorrland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/216-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 V\u00e4stmanland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/217-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6rebro (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/221-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P4 \u00d6sterg\u00f6tland (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/222-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P3 Din gata (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2576-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P2 Spr\u00e5k och musik (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/163-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio P6 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/166-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio Radioapans knattekanal (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2755-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR S\u00e1pmi (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/224-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Sisuradio (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/226-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 01 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2383-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 02 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2384-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 03 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2385-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 04 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2386-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 05 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2387-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 06 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2388-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 07 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2389-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 08 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/2390-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 09 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3268-lo-aac.pls"
+      },
+      {
+        "name": "Sveriges Radio SR Extra 10 (32kbps aac pls)",
+        "url": "https://sverigesradio.se/topsy/direkt/3269-lo-aac.pls"
       }
     ]
   },
